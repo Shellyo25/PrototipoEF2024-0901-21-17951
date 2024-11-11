@@ -1,0 +1,11 @@
+commit f8cb896d6cc61b4622662d3b1a39f8f137bfd7c9
+Author: Shelly <sordonezm3@miumg.edu.gt>
+Date:   Mon Nov 11 10:13:56 2024 -0600
+
+    PRUEBA DE PARCIAL FIANL
+
+commit 9868b92e58ff60a4b9d358e655fd8059bef15211
+Author: Shellyo25 <123606932+Shellyo25@users.noreply.github.com>
+Date:   Mon Nov 11 08:43:56 2024 -0600
+
+    Initial commit
